@@ -1,0 +1,1 @@
+cmd /k "conda activate py_exp_venv && python Keep_System_Awake.py"
